@@ -3,10 +3,10 @@ home: true
 heroImage: https://vuejs.org/images/logo.png
 actions:
   - text: 快速上手
-    link: /guide/introduction.html
+    link: /vue3project/introduction.html
     type: primary
   - text: 项目简介
-    link: /guide/
+    link: /vue3project/
     type: secondary
 features:
 - title: 简洁至上
