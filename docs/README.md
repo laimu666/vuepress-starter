@@ -6,7 +6,7 @@ actions:
     link: /vue3project/introduction.html
     type: primary
   - text: 项目简介
-    link: /vue3project/
+    link: /webpack5/start.html
     type: secondary
 features:
 - title: 简洁至上

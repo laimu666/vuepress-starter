@@ -20,6 +20,14 @@ export default {
           ],
         },
       ],
+      '/webpack5/': [
+        {
+          text: '指南',
+          children: [
+            '/webpack5/start.md'
+          ],
+        },
+      ],
     } 
   },
 }
